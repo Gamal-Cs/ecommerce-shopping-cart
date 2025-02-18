@@ -31,7 +31,7 @@ This is an eCommerce shopping cart application built using Spring Boot and MySQL
 8. **Category**: Represents product categories for better organization.
 9. **Image**: Handles product images, allowing for upload and download.
 
-![image alt](https://github.com/Gamal-Cs/ecommerce-shopping-cart/blob/f8d75cfd162d0452d062d3ec2b392802cee284a4/relational_schema.png)
+![Relational Schema](https://github.com/Gamal-Cs/ecommerce-shopping-cart/blob/main/relational_schema.png)
 
 ## Setup
 
@@ -47,5 +47,5 @@ This is an eCommerce shopping cart application built using Spring Boot and MySQL
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ecommerce-shopping-cart.git
+   git clone https://github.com/Gamal-Cs/ecommerce-shopping-cart.git
    cd ecommerce-shopping-cart
